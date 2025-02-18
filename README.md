@@ -1,4 +1,4 @@
-# Hobbies App
+# HobbyConnect
 
 ## About
 This is a university group project for the Web Programming module. It is a web application for managing user hobbies, allowing users to add, edit, and explore hobbies. The project includes full CRUD functionality, user authentication, and a social component where users can connect based on shared interests. [Professor template used.](https://github.qmul.ac.uk/eew252/cwgroup)
