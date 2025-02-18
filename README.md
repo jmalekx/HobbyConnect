@@ -70,7 +70,19 @@ Access the backend at: [http://localhost:8000](http://127.0.0.1:8000)
 - **[lolly@me.com](mailto:lolly@me.com)** - GroupPass12\*
 
 ## Project Visuals
-
+![Front Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/frontpage.png)
+---
+![Home Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/homepage.png)
+---
+![Profile Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/profilepage.png)
+---
+![Friends Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/friendspage.png)
+---
+![Hobbies Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/hobbiespage.png)
+---
+![Similar Users Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/similarusers.png)
+---
+![Filtered Users Page](https://github.com/jmalekx/Hobbies-App/blob/main/visuals/filteredsimilarusers.png)
 
 ## Collaborators
 - [**jmalekx**](https://github.com/jmalekx): created friend model, admin hobby and friend classes, added to hobby model, setup api urls, user profile and creation forms, working logout button, fixed filtering with default auto max/min ages, fixed filtering previous button, all selenium tests, code commenting. login and signup forms.
