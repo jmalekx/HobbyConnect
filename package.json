@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/estree": "^1.0.6",
+    "@vue/cli": "^5.0.8",
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.5.13",
+    "@vue/runtime-dom": "^3.5.13",
+    "typescript": "^4.9.5",
+    "vite": "^6.0.7",
+    "vue-loader": "^16.8.3"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "dev": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pinia": "^2.3.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  }
+}
